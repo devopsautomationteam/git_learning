@@ -1,0 +1,2 @@
+This is my 1st file in git local repo
+This is my first file in local repo..
